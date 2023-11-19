@@ -1,0 +1,109 @@
+body{
+    margin:0;
+    padding:0;
+    background:#db0b0b;
+}
+
+.name {
+width: 100%;
+height: 230px;
+background: #bdc0c3;
+transform: skewY(-7deg);
+}
+.name .content {
+    width:50%;
+    height:60%;
+    position: absolute;
+    left:18%;
+}
+
+.name .content .p-1 {
+    color: rgb(18, 10, 50);
+    font-family: 'baloo tamma 2', sans-serif;
+    font-weight: bolder;
+    font-size: 65px;
+    transform: skewY(8deg);
+    margin-bottom: 0;
+}
+.name .content .p-2 {
+    color: rgb(53, 53, 88);
+    font-family: 'baloo tamma 2', sans-serif;
+    font-size: 35px;
+    transform: skewY(7deg);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.name .img {
+    position: absolute;
+    top: 45%;
+    right: 9%;
+    width: 180px;
+    height: 180px;
+    border-radius: 100px;
+    transform: skewY(6deg);
+    overflow: hidden;
+}
+
+.name .img img {
+    width: 190px;
+    height: 223px;
+}
+ 
+.info {
+  width: 92%;
+  height: auto;
+  background-color: rgb(6, 80, 107);
+  margin: 25px auto;
+  font-size: 15px;
+  color: rgb(10, 15, 50);
+  padding: 35px;
+  border-radius: 20px;
+}
+.info .tituloseccion {
+    color: #12042b;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight:bolder;
+    border-bottom: 1px solid black;
+}
+.info .tituloinfo {
+     color: #f7f7f7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 25px;
+
+}
+.info .infoinfo {
+    color: #d2c7c7;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: normal;
+   font-size: large;
+   display: inline;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
